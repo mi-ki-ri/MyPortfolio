@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOTTA Tatsuyas Portfolio</title>
-    <link>https://mi-ki-ri.github.io/TIL-Web/</link>
+    <link>https://mi-ki-ri.github.io/MyPortfolio/</link>
     <description>Recent content on HOTTA Tatsuyas Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://mi-ki-ri.github.io/TIL-Web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi-ki-ri.github.io/MyPortfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://mi-ki-ri.github.io/TIL-Web/test/</link>
+      <link>https://mi-ki-ri.github.io/MyPortfolio/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/TIL-Web/test/</guid>
+      <guid>https://mi-ki-ri.github.io/MyPortfolio/test/</guid>
       <description>test this is test</description>
     </item>
     
