@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://mi-ki-ri.github.io/MyPortfolio/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mi-ki-ri.github.io/MyPortfolio/categories/</loc>
     <priority>0</priority>
   </url>
@@ -45,6 +50,10 @@
   
   <url>
     <loc>https://mi-ki-ri.github.io/MyPortfolio/product/tobantoban/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/MyPortfolio/about/author/</loc>
   </url>
   
 </urlset>
