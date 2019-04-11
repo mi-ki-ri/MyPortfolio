@@ -75,7 +75,7 @@ no-ssrタグを利用して解決したはずです。</description>
       
       <guid>https://mi-ki-ri.github.io/MyPortfolio/product/tobantoban/</guid>
       <description>URL :https://play.google.com/store/apps/details?id=net.mikiri.tobantoban
-掃除当番などを決めるのに使える、シンプルなランダムマッチングアプリです。
+これって何？ 掃除当番などを決めるのに使える、シンプルなランダムマッチングアプリです。
 「メンバー」「ジョブ」を登録してシャッフルボタンを押すとシャッフルされたメンバーとジョブが出てきます。
 ReactNativeで書かれており、バックエンドはFirebaseを利用しています。</description>
     </item>
