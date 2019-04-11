@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mi-ki-ri.github.io/MyPortfolio/product/myportfolio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mi-ki-ri.github.io/MyPortfolio/product/nadenadesynth/</loc>
     <priority>0</priority>
   </url>
@@ -25,6 +20,10 @@
   <url>
     <loc>https://mi-ki-ri.github.io/MyPortfolio/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/MyPortfolio/product/myportfolio/</loc>
   </url>
   
   <url>
