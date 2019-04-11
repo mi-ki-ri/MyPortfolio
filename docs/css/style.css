@@ -22,6 +22,8 @@ body{
     max-height: 10vh;
     box-sizing: border-box;
     overflow: scroll;
+    background-color: #0076d1;
+    color: #fff;
 }
 
 .main{
@@ -33,5 +35,5 @@ body{
 }
 
 ::-webkit-scrollbar{height:5px;}/*バーの太さ*/
-::-webkit-scrollbar-track{background: transparent;}/*バーの背景色*/
+::-webkit-scrollbar-track{background: #ffffff;}/*バーの背景色*/
 ::-webkit-scrollbar-thumb{background:#0076d1;}/*バーの色*/
