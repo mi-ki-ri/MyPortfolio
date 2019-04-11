@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mi-ki-ri.github.io/MyPortfolio/product/myportfolio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mi-ki-ri.github.io/MyPortfolio/readme/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mi-ki-ri.github.io/MyPortfolio/test/testing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mi-ki-ri.github.io/MyPortfolio/test/testtest/</loc>
     <priority>0</priority>
   </url>
   
@@ -28,12 +23,12 @@
   </url>
   
   <url>
-    <loc>https://mi-ki-ri.github.io/MyPortfolio/tags/</loc>
+    <loc>https://mi-ki-ri.github.io/MyPortfolio/product/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mi-ki-ri.github.io/MyPortfolio/test/</loc>
+    <loc>https://mi-ki-ri.github.io/MyPortfolio/tags/</loc>
     <priority>0</priority>
   </url>
   
