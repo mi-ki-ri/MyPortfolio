@@ -24,5 +24,19 @@ CircleCIが動くのは別リポジトリ( MyPortFolioSource )にプッシュが
 なぜこうしたのかというと、Github上でファイルを作るだけで更新される仕組みにしたかったからです。</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://mi-ki-ri.github.io/MyPortfolio/product/nadenadesynth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/MyPortfolio/product/nadenadesynth/</guid>
+      <description>NadeNadeSynth URL: https://nadenadesynth.herokuapp.com/
+NadeNadeSynth(ナデナデシンセ)とは、画面を撫でることで座標に応じた音が出るWebアプリです。
+技術的には、Tone.jsを使っています。
+フレームワークはNuxt.jsでデプロイ先はherokuです。
+難しかった点として、Nuxtの強みであるはずのSSRがaudiocontextを複雑にしてしまったことがあります。
+no-ssrタグを利用して解決したはずです。</description>
+    </item>
+    
   </channel>
 </rss>
